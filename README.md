@@ -8,7 +8,7 @@ It uses manifest v3 now that v2 is going to be deprecated by 2023
 
 1. `npm install` to install all dependencies
 
-1. Perform your changes under `src` or `public` folders
+1. Perform your changes under `src` folder
 
 1. run `npm run build`
 
