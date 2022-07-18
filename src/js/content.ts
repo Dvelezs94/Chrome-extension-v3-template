@@ -1,0 +1,1 @@
+console.log("I am the content script running from the background for each tab")
